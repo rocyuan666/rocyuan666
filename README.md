@@ -1,16 +1,35 @@
-### Hi there 👋
+# roc-cli
 
-<!--
-**rocyuan666/rocyuan666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img style="border-radius: 50%;" src="https://portrait.gitee.com/uploads/avatars/user/1764/5292253_rocyuan6666_1578983987.png" />
 
-Here are some ideas to get you started:
+#### 介绍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+平时开发项目用vue或react等脚手架创建的项目，都需要手动删除一堆垃圾并且配置非常多的库及相关配置，非常麻烦，roc-cli会帮你创建没有垃圾代码并且有常用的库及配置的项目模板，提高开发效率，目前提供vue2.x、react、uni-app项目，后续会完善项目模板，并增加微信小程序、vue3.x等项目模板。
+
+
+#### 安装
+
+全局安装：` npm i -g roc-cli`
+
+#### 使用
+
+全局下安装了roc-cli后就可以在命令行使用roc命令
+
+帮助：` roc -h `, ` roc create -h `
+
+创建vue项目：` roc create <vueAppDemo> -vue`
+
+创建react项目：` roc create <reactAppDemo> -react` 
+
+创建uniapp项目：` roc create <uniAppDemo> -uniapp` 
+
+默认情况下会创建vue项目：` roc create <defaultApp>`
+
+#### 提示
+
+项目中的utils.js实时更新地址：[http://git.luojing.top/rocyuan/roc-utils](http://git.luojing.top/rocyuan/roc-utils)
+
+个人网站: [https://luojing.top](https://luojing.top)
+
+#### 
+
