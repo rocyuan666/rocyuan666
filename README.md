@@ -26,5 +26,5 @@
 
 ### roc-utils
 
-> js 常用 utils
+> js 常用 util 方法
 > 用法详见：[https://www.npmjs.com/package/roc-utils](https://www.npmjs.com/package/roc-utils)
