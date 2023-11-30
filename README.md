@@ -2,6 +2,8 @@
 
 大鹏一日同风起，扶摇直上九万里。
 
+博客：[https://rocyuan666.github.io](https://rocyuan666.github.io) 、 [https://rocyuan666.gitee.io](https://rocyuan666.gitee.io)
+
 ## npm 库
 
 ### roc-cli
