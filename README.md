@@ -2,7 +2,7 @@
 
 大鹏一日同风起，扶摇直上九万里。
 
-博客：[https://rocyuan666.github.io](https://rocyuan666.github.io) 、 [https://rocyuan666.gitee.io](https://rocyuan666.gitee.io)
+博客：[https://rocyuan666.github.io](https://rocyuan666.github.io) 、 [https://rocyuan.top](https://rocyuan.top)
 
 ## npm 库
 
