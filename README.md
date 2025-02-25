@@ -64,6 +64,15 @@ js 常用 util 方法库
 
 > 用法详见：[https://www.npmjs.com/package/roc-utils](https://www.npmjs.com/package/roc-utils)
 
+### vue-ezuikit
+
+萤石云 ezuikit JS SDK vue3 组件
+
+[![npm version](https://img.shields.io/npm/v/vue-ezuikit.svg?logo=npm&style=flat-square)](https://www.npmjs.com/package/vue-ezuikit)
+[![npm downloads](https://img.shields.io/npm/dt/vue-ezuikit.svg?style=flat-square)](https://www.npmjs.com/package/vue-ezuikit)
+
+> 用法详见：[https://www.npmjs.com/package/vue-ezuikit](https://www.npmjs.com/package/vue-ezuikit)
+
 ### roc-tooltip-show
 
 echarts tooltip 自动轮播库
